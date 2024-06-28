@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello! I'm Michael👋 
 
-<!--
-**MK732/MK732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Software Engineer and Game Dev Enthusiast
+- 👯 I’m looking to collaborate with other developers in software development and game development.
+- ⚡ Current Projects: Gamefo | What's the Dish! | AudioTrace
 
-Here are some ideas to get you started:
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,fastapi,py,postgres,cs,cpp,ts,unreal,discord,bots,docker,django,dotnet,git,html,css,linux,mongodb,nextjs,nodejs,postman,tailwind,&perline=12)]()
+## My Stats
+![MK's GitHub stats](https://github-readme-stats.vercel.app/api?username=MK732&show=answered,prs_merged,prs,&show_icons=true&theme=tokyonight)
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
