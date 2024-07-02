@@ -1,6 +1,6 @@
 ## Hello! I'm Mike👋 
 
-- 🌱 Software Engineer and Game Dev Enthusiast
+- 🌱 Software Engineer, Cloud and Game Dev Enthusiast
 - 👯 I’m looking to collaborate with other developers in software development and game development.
 - ⚡ Current Projects: Gamefo | What's the Dish! | AudioTrace
 
