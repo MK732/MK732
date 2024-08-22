@@ -6,7 +6,5 @@
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=gcp,fastapi,py,postgres,cs,cpp,ts,aws,unreal,discord,bots,docker,django,dotnet,git,html,css,linux,mongodb,nextjs,nodejs,postman,tailwind,&perline=12)]()
-## My Stats
-
 
 
