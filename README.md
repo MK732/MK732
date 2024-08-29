@@ -1,12 +1,23 @@
 
 <img src="https://github.com/MK732/MK732/blob/main/banner2.png" />
-## Hello! I'm Mike👋 
+
+
+
+<div align="center">
+  
+<h1 style="font-size: 36px; text-align: center; ">Hello! I'm Mike👋 </h1>
+</div>
 
 - 🌱 Software Engineer, Cloud and Game Dev Enthusiast
 - 👯 I’m looking to collaborate with other developers in software development and game development.
-- ⚡ Current Projects: AI Code Reviewer | Gamefo | MIDIN (Inventory Management SaaS) | What's the Dish! 
+- ⚡ Current Projects: AI Code Reviewer | Gamefo | MIDIN (Inventory Management SaaS) | What's the Dish!
 
-## My Skills
-[![My Skills](https://skillicons.dev/icons?i=gcp,fastapi,py,postgres,cs,cpp,ts,aws,unreal,discord,bots,docker,django,dotnet,git,html,css,linux,mongodb,nextjs,nodejs,postman,tailwind,&perline=12)]()
+
+<div align="center">
+  
+<h1 style="font-size: 36px; text-align: center; ">My Skills</h1>
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=gcp,fastapi,py,postgres,cs,cpp,ts,aws,unreal,discord,bots,docker,django,dotnet,git,html,css,linux,mongodb,nextjs,nodejs,postman,tailwind)]()
 
 
