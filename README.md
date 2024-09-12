@@ -1,5 +1,5 @@
 
-<img src="https://github.com/MK732/MK732/blob/main/banner2.png" />
+<img src="https://github.com/MK732/MK732/blob/main/GHBanner.png" />
 
 
 
