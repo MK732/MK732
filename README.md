@@ -10,7 +10,7 @@
 
 - 🌱 Software Engineer, Cloud and Game Dev Enthusiast
 - 👯 I’m looking to collaborate with other developers in software development and game development.
-- ⚡ Current Projects: Code Wolf AI |  MIDIN Classroom (Google Classroom) Extended Dashboard | Gamefo  | What's the Dish!
+- ⚡ Current Projects: Code Wolf AI |  MIDIN Classroom (Google Classroom) Extended Dashboard | Gamefo
 
 
 <div align="center">
