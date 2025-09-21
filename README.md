@@ -32,14 +32,6 @@
 <br><br>
 
 
-<h2>📝 My Latest Brain Dumps</h2>
-  <ul style="list-style-type: none; padding-left: 20px; margin: 0;">
-    <li><a href="https://mk732.github.io/Blog1-TeaApp/">Tea App Hacked?</a></li>
-     <li><a href="https://mk732.github.io/Blog-2-.NET10vsGO/">.NET10 vs GO? What to choose..</a></li>
-    <li><a href="https://mk732.github.io/UnrealvsUnity">Unreal vs Unity - The 2 Giants In Game Dev</a> </li>
-  </ul>
-
-
 
 <div align="center">
 
