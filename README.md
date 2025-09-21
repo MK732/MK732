@@ -5,8 +5,6 @@
 <p>I’m software engineer who loves programming, business, and product— working for a government entity in NY. When I’m not coding, I’m spending time with family, venturing out to new locations and states, and working on side projects in gaming, cloud, or business.</p>
 
 
-<p>🍵 Powered by my <strong>family & memes</strong> 🍵</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mk732&color=blue" height="30px" widght="30px" alt="Profile Views">
 </p>
