@@ -18,8 +18,6 @@
 <img align="right" src="https://github.com/MK732/MK732/blob/main/gilfoyle.gif" alt="Gilfoyle GIF" width="400" height="400" style="opacity: 0.9; margin-left: 44px; ">
 <br>
 <ul style="list-style-type: none; padding: 0; margin: 0;">
-  <li style="margin-bottom: 15px;">🌟 Developing some impactful projects like <a href="https://github.com/MK732/AreBillsPaid">Bills Paid </a>, <a href="https://www.maplebuddy.io">MapleBuddy (Being Redesigned)</a>, <a href="https://www.codewolfai.com">Code Wolf AI</a>, and <a href="https://www.gamefo.net/docs">Gamefo</a>.
-</br></br>
 <sup>A lot of my projects are tied to organizations and private repo's* </sup></li>
   <li style="margin-bottom: 15px;">🛠 Focused on mastering <strong>business aspects</strong>, <strong>product & project management</strong>, <strong>cloud technologies & infrastructure</strong>, and <strong>tinkering with game development</strong>.</li>
   <li style="margin-bottom: 15px;">📚 Although I love development, I’m passionate about transitioning into product and business to drive innovation and strategy.</li>
