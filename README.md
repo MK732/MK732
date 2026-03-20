@@ -2,7 +2,7 @@
 
 <h2>Sup, I'm Mike 👋</h2>
 
-<p>I’m software engineer who loves programming, business, and product— working for a government entity in NY. When I’m not coding, I’m spending time with family, venturing out to new locations and states, and working on side projects in gaming, cloud, or business.</p>
+<p>I’m software engineer who loves programming, business, and product. When I’m not coding, I’m spending time with family, venturing out to new locations and states, and working on side projects in gaming, cloud, or business.</p>
 
 
 <p align="center">
