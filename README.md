@@ -30,7 +30,7 @@ When I’m not working, I’m usually exploring new places, gaming, or spending 
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,cs,dotnet,ts,go,cpp" alt="Languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=godot,py,unity,fastapi,cs,dotnet,ts,go,cpp" alt="Languages and frameworks" />
 </p>
 
 <p align="center">
